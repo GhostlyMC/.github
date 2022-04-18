@@ -6,7 +6,6 @@
 
 ---
 
-
 ## About us
 
 Replica of original Ghostly Server, server for Minecraft Java Edition.
@@ -18,7 +17,7 @@ servers, but can't, so we have dedicated ourselves to porting the original serve
 experience.
 
 ## How to join GhostlyMC?
-We are currently under development, but if you want to join us, you can do so on our [Discord](https:ghostlymc.live).
+We are currently under development, but if you want to join us, you can do so on our [Discord](https://ghostlymc.live).
 
 
 ## Tools and Frameworks
