@@ -2,9 +2,10 @@
   <img src="https://avatars.githubusercontent.com/u/95240159?s=300">
 </p>
 
+# GhostlyMC.live
+
 ---
 
-<p align="center" style="font-size: 42px; font-family: 'Agency FB';">GhostlyMC Network</p>
 
 ## About us
 
